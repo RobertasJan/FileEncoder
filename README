@@ -1,0 +1,3 @@
+FileEncoder with QT5.
+Encodes file with AES256
+Calculates md5 hash for unexpected changes in file decoding.
